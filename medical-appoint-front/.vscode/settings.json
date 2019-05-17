@@ -1,0 +1,45 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "connectionTimeout": 30,
+            "database": "DBSlide",
+            "dialect": "MSSQL",
+            "domain": null,
+            "name": "dbslidecon",
+            "port": 1433,
+            "server": "127.0.0.1",
+            "username": "sa"
+        },
+        {
+            "askForPassword": true,
+            "connectionTimeout": 30,
+            "database": "medical-appoint",
+            "dialect": "MSSQL",
+            "name": "medical-appoint",
+            "port": 1433,
+            "server": "127.0.0.1",
+            "username": "sa"
+        },
+        {
+            "connectionTimeout": 30,
+            "database": "medical-appoint",
+            "dialect": "MSSQL",
+            "name": "medical-appoint",
+            "password": "Louves180879.",
+            "port": 1433,
+            "server": "127.0.0.1",
+            "username": "sa"
+        },
+        {
+            "connectionTimeout": 30,
+            "database": "medical-appoint",
+            "dialect": "MSSQL",
+            "name": "medical-appoint",
+            "password": "Louves180879.",
+            "port": 1433,
+            "server": "127.0.0.1",
+            "username": "sa"
+        }
+    ]
+}
